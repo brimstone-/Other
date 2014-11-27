@@ -60,12 +60,14 @@ Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpa
 #### Sample Code
 ===========
 
-// Python
+##### Python
+
 def answer(x, y, z):
     # your code here
 
 
-// Java
+##### Java
+
 package com.google.challenges; 
 
 public class Answer {   

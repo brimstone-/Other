@@ -1,6 +1,5 @@
 #### Origins and order
 =================
-
 What do we know about Professor Boolean's past? It's mostly rumor and conjecture, but a few things are known to be true.
 
 Mad Professor Boolean wasn't always a super villain. Early in his career, he was an average paper pusher, working in an office with some very backwards technology. One of his primary jobs was to carry date cards between departments. One morning, he tripped over a unicycle and dropped his date cards on the floor. He hit his head - and hit upon the idea of breeding an army of zombie rabbits to do his bidding and manage simple tasks. But that comes later. Before he could quit with an explosive YouTube video, the professor had to get his cards back in order. 
@@ -13,15 +12,17 @@ Write a function called answer(x, y, z) that takes as input the 3 numbers on the
 
 If there is only one valid representation, the function should return it as a string, in the form MM/DD/YY. If there are multiple valid representations, the function should return the string "Ambiguous." Each of x, y, z will be between 1 to 99 inclusive. You may also assume that there are no leap years.
 
+
+
 #### Languages
 =========
-
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit solution.java
 
+
+
 #### Test cases
 ==========
-
 Inputs:
     (int) x = 19
     (int) y = 19
@@ -36,22 +37,20 @@ Inputs:
 Output:
     (string) "Ambiguous"
 
+
+
 #### Constraints
 ===========
-
 ##### Java
 ====
-
 Your code will be compiled using standard Java 7. It must implement the answer() method in the solution stub.
 
 Execution time is limited. Some classes are restricted (e.g. java.lang.ClassLoader). You will see a notice if you use a restricted class when you verify your solution.
 
 Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
 
-
 ##### Python
 ======
-
 Your code will run inside a Python 2.7.6 sandbox.
 
 Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.

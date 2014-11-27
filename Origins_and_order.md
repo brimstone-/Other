@@ -15,14 +15,14 @@ If there is only one valid representation, the function should return it as a st
 
 
 #### Languages
-=========
+
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit solution.java
 
 
 
 #### Test cases
-==========
+
 Inputs:
     (int) x = 19
     (int) y = 19
@@ -40,9 +40,9 @@ Output:
 
 
 #### Constraints
-===========
+
 ##### Java
-====
+
 Your code will be compiled using standard Java 7. It must implement the answer() method in the solution stub.
 
 Execution time is limited. Some classes are restricted (e.g. java.lang.ClassLoader). You will see a notice if you use a restricted class when you verify your solution.
@@ -50,7 +50,7 @@ Execution time is limited. Some classes are restricted (e.g. java.lang.ClassLoad
 Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
 
 ##### Python
-======
+
 Your code will run inside a Python 2.7.6 sandbox.
 
 Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
@@ -58,7 +58,6 @@ Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpa
 
 
 #### Sample Code
-===========
 
 ##### Python
 
